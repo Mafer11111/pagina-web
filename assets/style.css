@@ -2,7 +2,7 @@ body {
     background-color: bisque;
 }
 footer {
-    background-color: black;
+    background-color: rgba(236, 83, 174, 0.806);
     color: white;
     bottom:0;
     position:fixed;
